@@ -162,6 +162,11 @@ nav a:hover {
     background: linear-gradient(135deg, #c41e3a 0%, #f39c12 100%);
 }
 
+img {
+    width: 400px;
+    height: 200px;
+}
+
 .item-content {
     padding: 1.5rem 1rem;
 }
